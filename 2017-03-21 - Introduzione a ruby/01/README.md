@@ -1,4 +1,4 @@
-#Esercizio 1
+# Esercizio 1
 
 **A: Hello world**
 
@@ -20,4 +20,8 @@ Istanziare un oggetto della classe e usarne i metodi.
 
 **D: Classi e metodi**
 
-Duplicare 
+Scrivere un programma  `helloworld-D.rb` che definisce la classe `AmicoDiTutti`.
+`AmicoDiTutti` funziona come `PersonaCordiale`, ma con alcune differenze:
+* la classe deve poter essere inizializzata con un valore o con una lista di valori
+* il metodo `saluta` deve stampare  `Ciao <nome>!` per ogni nome contenuto nella classe
+* il metodo `congeda` deve stampare i nomi contenuti nella lista concatendandoli con una `,` 
