@@ -35,3 +35,5 @@ Icon?
 .*.lb
 *.fdb_latexmk
 *.fls
+.idea*
+workspace.xml
